@@ -1,4 +1,9 @@
 #!/usr/bin/env python2
+
+# SPDX-License-Identifier: BSD-3-Clause
+#
+#   Copyright (C) 2021 Haruki Shimotori and Ryuichi Ueda. All right reserved.
+
 import rospy
 from std_msgs.msg import String 
 
