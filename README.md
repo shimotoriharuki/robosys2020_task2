@@ -36,13 +36,13 @@ roscore
 4. 新しいターミナルで、以下のコマンドを実行します
 
 ```she;;
-rosrun ros_chat player1.py
+rosrun robosys2020_task2 player1.py
 ```
 
 5. 新しいターミナルで、以下のコマンドを実行します
 
 ```she;;
-rosrun ros_chat player2.py
+rosrun robosys2020_task2 player2.py
 ```
 
 6. 4と5でコマンドを実行した2つのターミナル間でチャットをすることができます。
