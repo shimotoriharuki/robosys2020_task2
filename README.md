@@ -46,3 +46,14 @@ rosrun ros_chat player2.py
 ```
 
 6. 4と5でコマンドを実行した2つのターミナル間でチャットをすることができます。
+
+## 動作
+
+動画のように、2つのターミナル間でチャットを行う事ができます。
+
+[![](http://img.youtube.com/vi/6vbk5vh_TBY/0.jpg)](http://www.youtube.com/watch?v=6vbk5vh_TBY "ROSでチャット")
+
+## 参考
+
+以下のサイトを参考に作成しました。
+- https://ryuichiueda.github.io/robosys2020/lesson10_ros.html#/
